@@ -1,1 +1,6 @@
 my test1
+
+
+--->git remote add origin https://[TOKEN]@github.com/[REPO-OWNER]/[REPO-NAME]
+
+git remote add origin https://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@github.com/prisharma29/myDemoproject
